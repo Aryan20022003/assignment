@@ -1,0 +1,9 @@
+.productCard {
+  height: 80vh;
+}
+
+@media (max-width: 768px) {
+  .productCard {
+    height: 75vh;
+  }
+}
